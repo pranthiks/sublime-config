@@ -1,5 +1,5 @@
 # sublime-config
-Configuration files and settings for [Sublime](http://www.sublimetext.com/)
+Configuration files and settings for [Sublime Text 3](http://www.sublimetext.com/)
 
 1. Install Package Control if you haven't yet. For all Sublime Text 2/3 users we recommend package installation install via [Package Control](https://sublime.wbond.net/installation).
 2. Restart Sublime Text 2 before doing this next bit
@@ -19,4 +19,5 @@ Configuration files and settings for [Sublime](http://www.sublimetext.com/)
   - [Ruby on Rails Snippets](https://github.com/tadast/sublime-rails-snippets)
   - [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces) - Highlights trailing spaces
   - [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin)
+  - [Babel Sublime for React](https://github.com/babel/babel-sublime)
 5. Go to the user preferences file `Sublime Text 2 > Preferences > Settings - Default`. **Mandatory**: all files must have a `tab_size` of 2 spaces and make sure `translate_tabs_to_spaces` is true.
